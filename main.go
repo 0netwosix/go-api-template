@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"lw/edr/api"
+	"github.com/0netwosix/go-api-template/api"
 )
 
 // TODO: add these to envs
