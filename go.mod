@@ -1,4 +1,4 @@
-module lw/edr
+module github.com/0netwosix/go-api-template
 
 go 1.19
 
